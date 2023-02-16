@@ -1,4 +1,5 @@
 package Forme;
+import java.lang.Math;
 
 public class Cercle {
     private static int nbrCercle;

@@ -20,6 +20,6 @@ public class Main {
         System.out.println(livreSterling.toString());
 
         //System.out.println(franc.nom);
-        //cela ne marche pas parce que le nom est en private
+        //cela ne marche pas parce que l'attribut "nom" est en private
     }
 }
