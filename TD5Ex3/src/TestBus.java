@@ -1,11 +1,11 @@
 import vehicule.*;
 public class TestBus {
     public static void main(String[] args) {
-        Bus [] bus = new Bus[3];
+        final Bus [] bus = new Bus[3];
 
-        BusEssence busEssence = new BusEssence("busEssence", 100);
-        BusElectrique busElectrique = new BusElectrique("busElectrique", 100);
-        BusHybride busHybride = new BusHybride("busHybride", 100, 100);
+        final BusEssence busEssence = new BusEssence("busEssence", 100);
+        final BusElectrique busElectrique = new BusElectrique("busElectrique", 100);
+        final BusHybride busHybride = new BusHybride("busHybride", 100, 100);
 
         bus[0] = busEssence;
         bus[1] = busElectrique;
