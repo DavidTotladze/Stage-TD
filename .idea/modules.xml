@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Stage-TD.iml" filepath="$PROJECT_DIR$/.idea/Stage-TD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1Ex1/TD1Ex1.iml" filepath="$PROJECT_DIR$/TD1Ex1/TD1Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1Ex2/TD1Ex2.iml" filepath="$PROJECT_DIR$/TD1Ex2/TD1Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD2Ex1/TD2Ex1.iml" filepath="$PROJECT_DIR$/TD2Ex1/TD2Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD2Ex2/TD2Ex2.iml" filepath="$PROJECT_DIR$/TD2Ex2/TD2Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD3Ex1/TD3Ex1.iml" filepath="$PROJECT_DIR$/TD3Ex1/TD3Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD3Ex2/TD3Ex2.iml" filepath="$PROJECT_DIR$/TD3Ex2/TD3Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD4Ex1/TD4Ex1.iml" filepath="$PROJECT_DIR$/TD4Ex1/TD4Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD4Ex1V2/TD4Ex1V2.iml" filepath="$PROJECT_DIR$/TD4Ex1V2/TD4Ex1V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD4Ex2/TD4Ex2.iml" filepath="$PROJECT_DIR$/TD4Ex2/TD4Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD5Ex1/TD5Ex1.iml" filepath="$PROJECT_DIR$/TD5Ex1/TD5Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD5Ex2/TD5Ex2.iml" filepath="$PROJECT_DIR$/TD5Ex2/TD5Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD5Ex3/TD5Ex3.iml" filepath="$PROJECT_DIR$/TD5Ex3/TD5Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD6Ex1/TD6Ex1.iml" filepath="$PROJECT_DIR$/TD6Ex1/TD6Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD6Ex2/TD6Ex2.iml" filepath="$PROJECT_DIR$/TD6Ex2/TD6Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD7Ex1/TD7Ex1.iml" filepath="$PROJECT_DIR$/TD7Ex1/TD7Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD7Ex2/TD7Ex2.iml" filepath="$PROJECT_DIR$/TD7Ex2/TD7Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD8/TD8.iml" filepath="$PROJECT_DIR$/TD8/TD8.iml" />
+    </modules>
+  </component>
+</project>
