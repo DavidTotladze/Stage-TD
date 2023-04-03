@@ -38,6 +38,5 @@ public class TestCercle {
             }
             System.out.println(cerclesGeometriques[i].aire());
         }
-
     }
 }
